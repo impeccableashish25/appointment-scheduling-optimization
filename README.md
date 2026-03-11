@@ -28,6 +28,3 @@ The dataset contains patient appointment records including scheduling date, appo
 - Implement reminder notifications for early morning appointments.
 
 
-
-![Dashboard](images/dashboard_overview.png)# appointment-scheduling-optimization
-Healthcare Appointment Scheduling Analysis using Power BI
